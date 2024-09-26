@@ -125,7 +125,9 @@ img{
         transform: rotate(360deg);
     }
 }
-
+.rotate {
+    animation: rotate 10s linear infinite;
+  }
 audio{
     display: none;
 }
